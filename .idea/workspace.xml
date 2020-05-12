@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c77c297b-c0eb-4b61-8755-8069afa20400" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce-db/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-db/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
