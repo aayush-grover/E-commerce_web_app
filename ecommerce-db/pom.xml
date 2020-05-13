@@ -113,6 +113,7 @@
                                     <orderFile>none</orderFile>
                                     <srcFiles>
                                         <srcFile>${sql.path}/ecommerce.sql</srcFile>
+                                        <srcFile>${sql.path}/ecommerce_test.sql</srcFile>
                                     </srcFiles>
                                 </configuration>
                             </execution>

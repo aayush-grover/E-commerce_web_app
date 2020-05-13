@@ -3,12 +3,26 @@
   <component name="ChangeListManager">
     <list default="true" id="c77c297b-c0eb-4b61-8755-8069afa20400" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-api/target/ecommerce-api-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-api/target/ecommerce-api-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-db/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-db/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-db/target/ecommerce-db.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-db/target/ecommerce-db.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/target/ecommerce-service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-service/target/ecommerce-service-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/frontend/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,18 +45,21 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ecommerce-db/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ecommerce-api/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\backend development\ecommerce\ecommerce-api\src\main\resources" />
+      <recent name="E:\backend development\ecommerce\ecommerce-service\src\main\java\com\project\ecommerce\service" />
+      <recent name="E:\backend development\ecommerce\ecommerce-service\src\main\java\com\project\ecommerce\service\business" />
+      <recent name="E:\backend development\ecommerce\ecommerce-db\src\main\resources" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\backend development\ecommerce\ecommerce-db\src\main\resources\sql" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\backend development\ecommerce\ecommerce-db\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -75,7 +92,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
